@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9391c13425eaeec49963116a53fe7f9a, type: 3}
+  m_Name: OldTaso
+  m_EditorClassIdentifier: Assembly-CSharp::Collector.Collectibles.CollectibleItemData
+  itemId: old_taso
+  itemName: Eski Taso
+  description: "Cips paketlerinden \xE7\u0131kan efsane tasolardan biri. Kenarlar\u0131
+    y\u0131pranm\u0131\u015F ama y\u0131ld\u0131z\u0131 h\xE2l\xE2 parl\u0131yor."
+  category: 1
+  rarity: 0
+  condition: 1
+  year: 1998
+  collectionName: Taso Serisi 1
+  collectionValue: 5
+  inventoryIcon: {fileID: 21300000, guid: c6d9da99fe23a0d4d9d442106daf0569, type: 3}
+  worldSprite: {fileID: 21300000, guid: c6d9da99fe23a0d4d9d442106daf0569, type: 3}
+  shelfSprite: {fileID: 21300000, guid: a9806758e2f4f7944877eed6dc197967, type: 3}
